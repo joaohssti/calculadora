@@ -27,7 +27,7 @@ def potenciar(num, expoente) -> float:
 
 
 def raiz_quadrada(radicando):
-    return
+    return radicando ** .5
 
 
 def fatorial(num:int) -> int:
